@@ -6,6 +6,7 @@ import (
     "fmt"
 )
 
+// first time for branch of dev
 // 程式執行入口
 func main() {
     // 使用 fmt 套件印出字串 word，使用 := 簡化原本變數宣告 var word string = "Hello, World!"

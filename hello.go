@@ -12,4 +12,5 @@ func main() {
     word := "Hello, World!"
     fmt.Println(word)
     fmt.Println("Go Git!")
+    fmt.Println("Commit!")
 }
